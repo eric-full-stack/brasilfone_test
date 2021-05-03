@@ -1,0 +1,13 @@
+node_modules
+.ebextensions
+.editorconfig
+ormconfig.json
+.env
+build
+dist
+.eslintignore
+.eslintrc.json
+coverage
+src/shared/errors/logs/*
+!src/shared/errors/logs/.gitkeep
+yarn-error.log
